@@ -24,7 +24,7 @@ Online vs Offline
 ## SMS
 ![cat](img/posta.png)
 ---
-## Antivirus
+#### Antivirus
 ![cat](img/anti.png)
 ---
 # Правила против вирусов
@@ -38,7 +38,7 @@ Online vs Offline
 ## Ссылки в письмах и сообщениях
 ![cat](img/links.png)
 ---
-## Предупреждающие окна
+#### Предупреждающие окна
 ![cat](img/warning.png)
 ---
 ## Подозрительные вэб-страницы
@@ -46,4 +46,28 @@ Online vs Offline
 ---
 ## Персональные данные
 ![cat](img/personal.png)
+---
+## Правила защиты личной информации
+---
+#### Имя и фамилия в качестве login?
+![cat](img/login.png)
+---
+## Год, дата рождения, номер телефона?
+---
+## Сильные пароли
+- больше 8 символов
+- прописные и строчные
+- числа
+- спец символы [!,@,#]
+- бессмысленные слова
+---
+## Никому не передаем пароль
+---
+## Менеджеры паролей
+![cat](img/pwd_managers.png)
+---
+## Публичный WI-FI
+![cat](img/wifi.png)
+---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LFEvVOf0suo?si=LscG8or_ZEGSQuyv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ---
